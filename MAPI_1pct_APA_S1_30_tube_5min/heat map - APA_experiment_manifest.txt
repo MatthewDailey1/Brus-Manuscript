@@ -1,0 +1,9 @@
+====================================================
+IN-SITU RUN METADATA AUDIT TRAILS MANIFEST
+====================================================
+Active Calibration File (.PONI):     G:/LBL_data/ITO.poni
+PL Raw Folder Location Source:      G:/LBL_data/printz_Apr2024/MAPI_sean/MAPI_1pct_AHA_S1_30_tube_5min/MAPI_1pct_AHA_S1_30_tube_5min 003296 Spectrums
+GIWAXS Raw Folder Location Source:  G:/LBL_data/printz_Apr2024/MAPI_sean/MAPI_1pct_APA_S1_30_tube_5min
+PL Calculated Axis Time Shift:       0.000 seconds
+GIWAXS Calculated Axis Time Shift:   0.000 seconds
+====================================================
