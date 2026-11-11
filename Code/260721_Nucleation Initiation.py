@@ -6,6 +6,8 @@ PL Signal Detection & Region Timeline Suite (Startup / Time Before PL Detected)
 2. Plots two versions: one with black outlines and one without outlines.
 """
 
+'Generates the SI figure for the PL Emission Onset Time (s)'
+
 import os
 import re
 import numpy as np
